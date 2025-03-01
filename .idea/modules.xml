@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exam/Exam.iml" filepath="$PROJECT_DIR$/Exam/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Steps_In_Coding/First_Steps_In_Coding.iml" filepath="$PROJECT_DIR$/First_Steps_In_Coding/First_Steps_In_Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects Java Basics.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming Basics Online Exam - 15 and 16 June 2019/Programming Basics Online Exam - 15 and 16 June 2019.iml" filepath="$PROJECT_DIR$/Programming Basics Online Exam - 15 and 16 June 2019/Programming Basics Online Exam - 15 and 16 June 2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming Basics Online Exam - 20 and 21 April 2019/Programming Basics Online Exam - 20 and 21 April 2019.iml" filepath="$PROJECT_DIR$/Programming Basics Online Exam - 20 and 21 April 2019/Programming Basics Online Exam - 20 and 21 April 2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming Basics Online Exam - 6 and 7 July 2019/Programming Basics Online Exam - 6 and 7 July 2019.iml" filepath="$PROJECT_DIR$/Programming Basics Online Exam - 6 and 7 July 2019/Programming Basics Online Exam - 6 and 7 July 2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming Basics Online Exam - 9 and 10 March 2019/Programming Basics Online Exam - 9 and 10 March 2019.iml" filepath="$PROJECT_DIR$/Programming Basics Online Exam - 9 and 10 March 2019/Programming Basics Online Exam - 9 and 10 March 2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming Basics Online Retake Exam - 2 and 3 May 2019/Programming Basics Online Retake Exam - 2 and 3 May 2019.iml" filepath="$PROJECT_DIR$/Programming Basics Online Retake Exam - 2 and 3 May 2019/Programming Basics Online Retake Exam - 2 and 3 May 2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 10/Theme 10.iml" filepath="$PROJECT_DIR$/Theme 10/Theme 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 11/Theme 11.iml" filepath="$PROJECT_DIR$/Theme 11/Theme 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 12/Theme 12.iml" filepath="$PROJECT_DIR$/Theme 12/Theme 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 13/Theme 13.iml" filepath="$PROJECT_DIR$/Theme 13/Theme 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 14/Theme 14.iml" filepath="$PROJECT_DIR$/Theme 14/Theme 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 15/Theme 15.iml" filepath="$PROJECT_DIR$/Theme 15/Theme 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 4/Theme 4.iml" filepath="$PROJECT_DIR$/Theme 4/Theme 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 5/Theme 5.iml" filepath="$PROJECT_DIR$/Theme 5/Theme 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 6/Theme 6.iml" filepath="$PROJECT_DIR$/Theme 6/Theme 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 7/Theme 7.iml" filepath="$PROJECT_DIR$/Theme 7/Theme 7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 8/Theme 8.iml" filepath="$PROJECT_DIR$/Theme 8/Theme 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Theme 9/Theme 9.iml" filepath="$PROJECT_DIR$/Theme 9/Theme 9.iml" />
+    </modules>
+  </component>
+</project>
